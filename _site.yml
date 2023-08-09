@@ -4,11 +4,6 @@ navbar:
 left:
   - text: "Home"
 href: index.html
-right: 
-  - icon: fa-envelope fa-lg
-href: mailto:<justinelang@bren.ucsb.com>
-  - icon: fa-github fa-lg
-href: http://github.com/<justinelang>/
-  output:
-  html_document:
-  theme: flatly
+- text: "About"
+href: about.html
+
