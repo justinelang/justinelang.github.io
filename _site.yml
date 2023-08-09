@@ -6,4 +6,7 @@ left:
 href: index.html
 - text: "About"
 href: about.html
-
+href: http://github.com/<justinelang>/
+  output:
+  html_document:
+  theme: darkly
