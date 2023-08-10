@@ -1,0 +1,16 @@
+---
+title: "I wrote a new page!"
+output: 
+  html_document: 
+    code_folding: show
+---
+
+Very interesting information goes here.
+<br>
+Are we able to include code?
+```{r}
+### Here is some code
+```
+
+The answer is yes!
+<br><br>

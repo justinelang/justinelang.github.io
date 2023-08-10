@@ -1,14 +1,16 @@
-name: "elk-website"
+name: "my-website"
+output_dir: "docs"
 navbar:
   title: "Elk Entourage"
-left:
-  - text: "Home"
-href: index.html
-right: 
-  - icon: fa-envelope fa-lg
-href: mailto:<cats@catemail.com>
-  - icon: fa-github fa-lg
-href: http://github.com/<justinelang>/
-  output:
-  html_document:
-  theme: flatly
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Click me!"
+      href: practice.html
+output: 
+  html_document: 
+    theme: flatly
+    include: 
+      after_body: my_footer.Rhtml

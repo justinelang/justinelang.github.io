@@ -1,0 +1,6 @@
+---
+title: "About Elk Entourage"
+---
+
+We could include more about our project here!
+<br><br>
